@@ -1,0 +1,26 @@
+(
+  (
+    (Mitosporidium,Rudimicrosporea,Rozella_allomycis)Rozella_core,
+    (
+      Rozella_allomycis_CSF55,
+      Rozella_apodiae_brachynematis,
+      Rozella_monoblepharidis_polymorphae,
+      Rozella_multimorpha,
+      Rozella_rhipidii_spinosi,
+      Rozella_rhizoclosmatii,
+      Blastocladiales,
+      h2007_2_Zoopagales,
+      Monoblepharidales_Neocallimastigales,
+      Rhizophydiales_Nowakowskielaceae,
+      Hyaloraphidiales,
+      Mesochytriales,
+      Polychytriales
+    )Rozella_extended
+  )Rozella_group,
+
+  (
+    (Liebetanzomyces,Liebetanzomyces_polymorphus)Lieb_group,
+    (Gromochytriales,Gromochytriales_sp_DM2018a,Gromochytriaceae)Gromo_group,
+    (Lobulomycetales,Lobulomycetaceae)Lobulo_group
+  )Basal_Rozella_lineages
+);
