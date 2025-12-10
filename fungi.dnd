@@ -1,26 +1,26 @@
 (
   (
-    (Mitosporidium,Rudimicrosporea,Rozella_allomycis)Rozella_core,
+    (Mitosporidium:0.2,Rudimicrosporea:0.2,Rozella_allomycis:0.2)Rozella_core:0.3,
     (
-      Rozella_allomycis_CSF55,
-      Rozella_apodiae_brachynematis,
-      Rozella_monoblepharidis_polymorphae,
-      Rozella_multimorpha,
-      Rozella_rhipidii_spinosi,
-      Rozella_rhizoclosmatii,
-      Blastocladiales,
-      h2007_2_Zoopagales,
-      Monoblepharidales_Neocallimastigales,
-      Rhizophydiales_Nowakowskielaceae,
-      Hyaloraphidiales,
-      Mesochytriales,
-      Polychytriales
-    )Rozella_extended
-  )Rozella_group,
+      Rozella_allomycis_CSF55:0.2,
+      Rozella_apodiae_brachynematis:0.2,
+      Rozella_monoblepharidis_polymorphae:0.2,
+      Rozella_multimorpha:0.2,
+      Rozella_rhipidii_spinosi:0.2,
+      Rozella_rhizoclosmatii:0.2,
+      Blastocladiales:0.2,
+      h2007_2_Zoopagales:0.2,
+      Monoblepharidales_Neocallimastigales:0.2,
+      Rhizophydiales_Nowakowskielaceae:0.2,
+      Hyaloraphidiales:0.2,
+      Mesochytriales:0.2,
+      Polychytriales:0.2
+    )Rozella_extended:0.3
+  )Rozella_group:0.4,
 
   (
-    (Liebetanzomyces,Liebetanzomyces_polymorphus)Lieb_group,
-    (Gromochytriales,Gromochytriales_sp_DM2018a,Gromochytriaceae)Gromo_group,
-    (Lobulomycetales,Lobulomycetaceae)Lobulo_group
-  )Basal_Rozella_lineages
-);
+    (Liebetanzomyces:0.2,Liebetanzomyces_polymorphus:0.2)Lieb_group:0.3,
+    (Gromochytriales:0.2,Gromochytriales_sp_DM2018a:0.2,Gromochytriaceae:0.2)Gromo_group:0.3,
+    (Lobulomycetales:0.2,Lobulomycetaceae:0.2)Lobulo_group:0.3
+  )Basal_Rozella_lineages:0.4
+)Fungi:0.0;
